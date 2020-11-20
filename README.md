@@ -20,6 +20,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > cd kaguyabot
 > bash install.sh
 > node index.js
+> npm start
 ```
 
 
@@ -52,4 +53,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 082133788387
